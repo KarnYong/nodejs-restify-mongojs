@@ -1,0 +1,8 @@
+{
+  "name": "restifytest1",
+  "version": "0.0.0",
+  "dependencies": {
+    "restify": "~3.0.1",
+    "mongojs": "~0.18.2"
+  }
+}
